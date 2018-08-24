@@ -1,5 +1,5 @@
-Token, Algorithm, Correlation_Coefficient, Mean_Absolute_Error, Root_Mean_Squared_Error
-Token, Algorithm, Correlation_Coefficient, Mean_Absolute_Error, Root_Mean_Squared_Error
-ACAT, SVM (Poly Kernel), 0.9943, 0.0002, 0.0003
-ONT, SVM (Poly Kernel), 0.9827, 0.2798, 0.4665
+Token, Algorithm, Kernel, Complexity Parameter, Correlation_Coefficient, Mean_Absolute_Error, Root_Mean_Squared_Error
+Token, Algorithm, Kernel, Complexity Parameter, Correlation_Coefficient, Mean_Absolute_Error, Root_Mean_Squared_Error
+ACAT, SVM, Poly, 10.0 0.9943, 0.0002, 0.0003
+ONT, SVM, Poly, 10.0, 0.9827, 0.2798, 0.4665
 
