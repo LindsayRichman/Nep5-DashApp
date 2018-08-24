@@ -4,3 +4,14 @@ open,0.207792208
 low,0.103896104
 volumeto,0.064935066
 volumefrom,0.012987013
+,
+,
+"Explained Variance ScoreBest possible score is 1.0, lower values are worse",0.98551
+Mean Absolute Error (MAE)Average of the absolute value of the regression error,0.00026383
+Mean Average Percentage ErrorAverage of the absolute value of the regression error,4.34%
+Mean Squared Error (MSE)Average of the squares of the errors,1.02E-07
+Root Mean Squared Error (RMSE)Root of the above mesure,0.00031893
+Root Mean Squared Logarithmic Error (RMSLE)Root of the average of the squares of the natural log of the regression error,0.00031674
+Pearson coefficientCorrelation coefficient between actual and predicted values.,0.99297
+R2 Score(Coefficient of determination) regression score function,0.98313
+,
