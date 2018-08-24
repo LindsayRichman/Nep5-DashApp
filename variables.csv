@@ -1,0 +1,15 @@
+token,feature_name,importance
+ACAT,close,61%
+ACAT,open,21%
+ACAT,low,10%
+ACAT,volumeto,6%
+DBC,close,63%
+DBC,low,18%
+DBC,open,17%
+DBC,volumefrom,1%
+ONT,close,
+ONT,low ,
+ONT,open,
+TNC,close,
+TNC,low,
+TNC,open,
