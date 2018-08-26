@@ -144,7 +144,7 @@ dcc.Markdown("**NEO** reached a high of **over $195 in mid-January of 2018**.  A
                         id = "graph-1",
                         figure={
                             'data': [
-                                go.Candlestick(
+                                go.Ohlc(
                                     x=neo['timestamp'],
                                     open=neo['open'],
                                     high=neo['high'],
@@ -161,7 +161,7 @@ dcc.Markdown("**NEO** reached a high of **over $195 in mid-January of 2018**.  A
                                 autosize = True,
                                  height = 400,
                                  width = 725,
-                                title = "<b>NEO Historical Daily Prices",
+                                title = "<b>NEO Historical OHLC Data",
                                 font = {
                                   "family": "Raleway",
                                   "size": 10
