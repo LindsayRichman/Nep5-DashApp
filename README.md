@@ -8,3 +8,5 @@ It adds the following chart types: OHCL, horizontal bar, filled area, Candlestic
 
 It also adds the following chart features: Bollinger bands, Moving Average (MA), Volume, dropdown menus 
 
+The charts were created from data pulled in by an API from JupyterLab.  The Dash app was then built in Atom and deployed via Heroku.
+
