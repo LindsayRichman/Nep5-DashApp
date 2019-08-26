@@ -6,9 +6,9 @@ This is a prototype that serves as a sample interactive business intelligence re
 
 It adds the following chart types, from Plotly: <b>OHCL, horizontal bar, filled area, Candlestick</b>
 
-It also adds the following chart features: <b>Bollinger bands, Moving Average (MA), Volume, dropdown menus</b>
+It also adds the following chart components: <b>Bollinger bands, Moving Average (MA), Volume, dropdown menus</b>
 
-Much of the text that was authored in HTML has been replaced by text that uses Dash's <b>dcc.Markdown</b> component, which generally provides better options for text formatting.
+Most of the text that was authored in HTML has been replaced by text that uses Dash's <b>dcc.Markdown</b> component, which generally provides better options for text formatting.
 
 The structure of the app, and some of its CSS, has been modified to fit the report's length and branding style.
 
