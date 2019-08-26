@@ -8,7 +8,7 @@ It adds the following chart types, from Plotly: OHCL, horizontal bar, filled are
 
 It also adds the following chart features: Bollinger bands, Moving Average (MA), Volume, dropdown menus 
 
-Much of the text that was authored in HTML has been replaced by text that uses the dcc.Markdown component, which generally provides better options for text formatting.
+Much of the text that was authored in HTML has been replaced by text that uses Dash's <b>dcc.Markdown</b> component, which generally provides better options for text formatting.
 
 The structure of the app, and some of its CSS, has been modified to fit the report's length and branding style.
 
