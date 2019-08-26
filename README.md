@@ -4,9 +4,9 @@ Dash app with information on the NEO blockchain and NEP-5 tokens, based on the D
 
 This is a prototype that serves as a sample interactive business intelligence report.  
 
-It adds the following chart types, from Plotly: OHCL, horizontal bar, filled area, Candlestick
+It adds the following chart types, from Plotly: <b>OHCL, horizontal bar, filled area, Candlestick</b>
 
-It also adds the following chart features: Bollinger bands, Moving Average (MA), Volume, dropdown menus 
+It also adds the following chart features: <b>Bollinger bands, Moving Average (MA), Volume, dropdown menus</b>
 
 Much of the text that was authored in HTML has been replaced by text that uses Dash's <b>dcc.Markdown</b> component, which generally provides better options for text formatting.
 
