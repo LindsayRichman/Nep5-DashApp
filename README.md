@@ -1,6 +1,6 @@
 Live app: https://nep5t.herokuapp.com/
 
-Dash app with information on the NEO blockchain and NEP-5 tokens, based on the Dash Vanguard Report (https://github.com/plotly/dash-vanguard-report).
+Dash app with information on the NEO blockchain and NEP-5 tokens, based on the Dash Vanguard Report (https://dash-gallery.plotly.host/dash-vanguard-report/).
 
 This is a prototype that serves as a sample interactive business intelligence report.  
 
