@@ -47,7 +47,7 @@ def get_logo():
     logo = html.Div([
 
         html.Div([
-            html.Img(src='https://www.neonatter.com/wp-content/uploads/2018/02/NEP5TOKENS-1.png', height='100', width='160')
+            html.Img(src='https://blog.buyucoin.com/wp-content/uploads/2017/08/NEO.jpg', height='100', width='160')
         ], className="ten columns padded"),
 
         html.Div([
